@@ -6,7 +6,6 @@ import sys
 import time
 from datetime import datetime
 import urllib.request, urllib.parse, urllib.error
-#from BeautifulSoup import BeautifulSoup
 from bs4 import BeautifulSoup
 import json
 

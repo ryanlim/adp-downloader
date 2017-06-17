@@ -1,0 +1,8 @@
+{
+    "note": "This is a sample config file",
+    "note": "Save it in $HOME/.adp-downloader-config.json",
+    "username": "XXXXX",
+    "password": "XXXXX",
+    "request_limit": 100,
+    "debug": false
+}
